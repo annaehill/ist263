@@ -1,4 +1,11 @@
-<head>
-    <title>Stylesheet</title>
-    <link rel="stylesheet" href="/path/stylesheet.css">
-</head>
+body {
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: pink;
+}
+.evenrow{color:bisque}
+h1{font-size:2em}
+h2{font-size:1.5em}
