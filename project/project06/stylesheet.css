@@ -1,0 +1,23 @@
+
+body {
+    color: #EEEEEE;
+}
+p{
+    color: #000000;
+}
+link {
+    color: #000000;
+}
+h1 {
+    color: #000000;
+}
+background { 
+    color: #EEEEEE;
+}
+nav {
+    background-color: #7dade0; 
+}
+nav a {color:#000000;}
+nav a:hover{background-color: #7dade0;}
+nav a {padding: 10px;}
+nav {margin-bottom: 30px}
