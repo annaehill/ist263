@@ -10,6 +10,8 @@ link {
 }
 h1 {
     color: #000000;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Vina Sans', cursive;
 }
 background { 
     color: #EEEEEE;
@@ -29,3 +31,4 @@ nav {margin-bottom: 30px}
     display:none;
     }
     } 
+    
