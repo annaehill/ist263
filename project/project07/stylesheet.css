@@ -1,0 +1,34 @@
+
+body {
+    color: #7dade0;
+}
+p{
+    color: #000000;
+}
+link {
+    color: #000000;
+}
+h1 {
+    color: #000000;
+    font-family: 'Roboto', sans-serif;
+font-family: 'Vina Sans', cursive;
+}
+background { 
+    color: #EEEEEE;
+}
+nav {
+    background-color: #7dade0; 
+}
+nav a {color:#000000;}
+nav a:hover{background-color: #7dade0;}
+nav a {padding: 10px;}
+nav {margin-bottom: 30px}
+@media only screen and (max-width: 800px){
+    nav a{
+    display: block;
+    }
+    span{
+    display:none;
+    }
+    } 
+    
